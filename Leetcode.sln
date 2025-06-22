@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumNormal", "TwoSumNorma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumLINQ", "TwoSumLINQ\TwoSumLINQ.csproj", "{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideStringNormal", "DivideStringNormal\DivideStringNormal.csproj", "{7E700266-720F-4400-A3DF-E86FA9BD5529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
