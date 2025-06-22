@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/oszHaT3s/s=",
+  "success": true,
+  "projectFilePath": "/Users/spencersedano/Desktop/C#/Leetcode/TwoSumLINQ/TwoSumLINQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/spencersedano/.nuget/packages/dumpify/0.6.6/dumpify.0.6.6.nupkg.sha512",
+    "/Users/spencersedano/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/spencersedano/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

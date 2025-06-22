@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumNormal", "TwoSumNormal\TwoSumNormal.csproj", "{2FDABE42-A3DF-42B4-8149-C5842661731E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumLINQ", "TwoSumLINQ\TwoSumLINQ.csproj", "{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDABE42-A3DF-42B4-8149-C5842661731E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDABE42-A3DF-42B4-8149-C5842661731E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDABE42-A3DF-42B4-8149-C5842661731E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDABE42-A3DF-42B4-8149-C5842661731E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE7FA81-6BA9-471D-980E-3CFC7DA02DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
