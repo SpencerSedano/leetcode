@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumLINQ", "TwoSumLINQ\Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideStringNormal", "DivideStringNormal\DivideStringNormal.csproj", "{7E700266-720F-4400-A3DF-E86FA9BD5529}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideStringLINQ", "DivideStringLINQ\DivideStringLINQ.csproj", "{D293597F-04EA-4958-9515-F07C2F209629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E700266-720F-4400-A3DF-E86FA9BD5529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D293597F-04EA-4958-9515-F07C2F209629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293597F-04EA-4958-9515-F07C2F209629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293597F-04EA-4958-9515-F07C2F209629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293597F-04EA-4958-9515-F07C2F209629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
