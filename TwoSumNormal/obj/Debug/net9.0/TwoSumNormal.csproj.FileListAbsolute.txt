@@ -16,3 +16,4 @@
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumNormal/obj/Debug/net9.0/TwoSumNormal.pdb
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumNormal/obj/Debug/net9.0/TwoSumNormal.genruntimeconfig.cache
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumNormal/obj/Debug/net9.0/ref/TwoSumNormal.dll
+/Users/spencersedano/Desktop/C#/Leetcode/TwoSumNormal/obj/Debug/net9.0/TwoSumNormal.sourcelink.json

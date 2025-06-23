@@ -16,3 +16,4 @@
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumLINQ/obj/Debug/net9.0/TwoSumLINQ.pdb
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumLINQ/obj/Debug/net9.0/TwoSumLINQ.genruntimeconfig.cache
 /Users/spencersedano/Desktop/C#/Leetcode/TwoSumLINQ/obj/Debug/net9.0/ref/TwoSumLINQ.dll
+/Users/spencersedano/Desktop/C#/Leetcode/TwoSumLINQ/obj/Debug/net9.0/TwoSumLINQ.sourcelink.json

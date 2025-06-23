@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoSumLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b91e7cbf014ae3665785c5a4f4e2bd98e83439")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb1fb861457a7da88b5cb8aaf371000da92e0f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoSumLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoSumLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
