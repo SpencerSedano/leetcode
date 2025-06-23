@@ -9,9 +9,10 @@ It's a powerful C# feature. I'd say it's one of my favorite C# features. By the 
 
 
 ## Problems Table
-| # | Name | Difficulty |       Topics        |
-|:---------:|:-------:|:-------:|:-------:|
-| 1 | TwoSum | Easy | Array, Hash Table|
-| 2138 | Divide a String Into Groups of Size k | Easy | String, Simulation  |
+|  #   | Name                                  | Difficulty | Topics             |
+|:----:|:--------------------------------------|:----------:|:-------------------|
+|  1   | TwoSum                                |    Easy    | Array, Hash Table  |
+| 2138 | Divide a String Into Groups of Size k |    Easy    | String, Simulation |
+
 
 
